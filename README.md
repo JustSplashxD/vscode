@@ -130,11 +130,11 @@ http://localhost:8080
 
 You will see a login screen like this:
 
-![VS Code Login](image1.png)
+![VS Code Login](12.jog)
 
 After entering your password, you will see the VS Code welcome screen:
 
-![VS Code Welcome](image2.png)
+![VS Code Welcome](13.jpg)
 
 ---
 
